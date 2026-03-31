@@ -5,7 +5,7 @@ public class Sample {
         System.out.println("Lets do a Quick Math");
         // Simple arithmetic operations
         int a = 10;
-        int b = 30;
+        int b = 300;//changed
         System.out.println("Sum: " + (a + b));
         System.out.println("Difference: " + (b - a));
         System.out.println("Product: " + (a * b));
