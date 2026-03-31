@@ -14,6 +14,8 @@ public class Sample {
         System.out.println("Happy learning");
 
         System.out.println("checking rebase");
+        System.out.println("hello moni!");
+
         System.out.println("Thank you!");
     }
 }
