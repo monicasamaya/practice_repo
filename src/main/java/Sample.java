@@ -7,6 +7,7 @@ public class Sample {
         System.out.println("Difference: " + (b - a));
         System.out.println("Product: " + (a * b));
         System.out.println("Division: " + (b / a));
+        System.out.println("welcome");
         System.out.println("Thank you!");
     }
 }
