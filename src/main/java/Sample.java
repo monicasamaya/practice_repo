@@ -2,7 +2,7 @@ public class Sample {
     
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println("Lets go a Quick Math");
+        System.out.println("Lets do a Quick Math");
         // Simple arithmetic operations
         int a = 10;
         int b = 30;
